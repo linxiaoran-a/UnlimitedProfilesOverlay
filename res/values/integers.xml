@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 静态保底值 999; 实际生效值由 WebUI 的 LIMIT(默认99) 通过 fabrication+属性动态控制 -->
+    <integer name="config_multiuserMaximumUsers">999</integer>
+    <integer name="config_multiuserMaxRunningUsers">999</integer>
+</resources>

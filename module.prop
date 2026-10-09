@@ -1,0 +1,8 @@
+id=unlimited_profiles_overlay
+name=UnlimitedProfiles Overlay
+version=v1.4
+versionCode=5
+author=林小冉
+description=解除分身数量限制（纯原生RRO机制，无hook）：数量可在模块操作按钮进入的原生界面随意修改(1~999,默认99)，改完即时生效无需重启。同时放开用户总数/同时运行数/MANAGED每父用户上限。测试机型：Redmi K70 澎湃OS 3.x
+updateJson=https://raw.githubusercontent.com/linxiaoran-a/UnlimitedProfilesOverlay/main/update.json
+actionIcon=settings

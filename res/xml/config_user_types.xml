@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Override framework-res xml/config_user_types (MIUI ships it EMPTY).
+  UserTypeFactory.customizeBuilders() applies this on top of built-in defaults:
+  raises MANAGED profile per-parent limit 1 -> 99, which removes the
+  "Cannot add more profiles of type android.os.usertype.profile.MANAGED"
+  check in UserManagerService.canAddMoreProfilesToUser().
+-->
+<user-types>
+    <profile-type
+        name="android.os.usertype.profile.MANAGED"
+        max-allowed-per-parent="999" />
+</user-types>
