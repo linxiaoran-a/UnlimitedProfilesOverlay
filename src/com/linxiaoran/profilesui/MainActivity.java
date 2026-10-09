@@ -1,4 +1,4 @@
-package com.agent.profilesui;
+package com.linxiaoran.profilesui;
 
 import android.app.Activity;
 import android.graphics.Color;

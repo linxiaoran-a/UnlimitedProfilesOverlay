@@ -1,4 +1,4 @@
-package com.agent.profilesui;
+package com.linxiaoran.profilesui;
 
 public class Ctl {
     private static final String CTL = "/data/adb/modules/unlimited_profiles_overlay/webui_ctl.sh";

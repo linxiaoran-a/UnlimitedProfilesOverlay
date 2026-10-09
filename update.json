@@ -1,6 +1,6 @@
 {
-  "version": "v1.3",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/linxiaoran-a/UnlimitedProfilesOverlay/releases/download/v1.3/UnlimitedProfilesOverlay-KSU-v1.3.zip",
-  "changelog": "https://raw.githubusercontent.com/linxiaoran-a/UnlimitedProfilesOverlay/main/changelog.md"
+  "version": "v0.1.0",
+  "versionCode": 1,
+  "zipUrl": "https://gitee.com/lin_xiaoran/UnlimitedProfilesOverlay/releases/download/v0.1.0/UnlimitedProfilesOverlay-KSU-v0.1.0.zip",
+  "changelog": "https://gitee.com/lin_xiaoran/UnlimitedProfilesOverlay/releases/tag/v0.1.0"
 }

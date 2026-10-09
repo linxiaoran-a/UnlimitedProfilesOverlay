@@ -1,4 +1,4 @@
-package com.agent.profilesui;
+package com.linxiaoran.profilesui;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
